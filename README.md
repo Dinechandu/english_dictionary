@@ -1,2 +1,2 @@
-# english_dictionary
+# English_dictionary
 Terminal based English Dictionary using Python
